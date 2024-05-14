@@ -96,4 +96,3 @@ const useCart = () => {
 }
 
 export { CartContextProvider, useCart }
-
